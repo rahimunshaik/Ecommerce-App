@@ -1,3 +1,5 @@
+## Project Live at:-https://master--magnificent-custard-0c2fdd.netlify.app/
+
 ## Ecommerce React App
 This is a frontend application for an ecommerce website built using React.js and Redux. The application interacts with a dummy ecommerce API service to fetch product data and perform CRUD operations. It includes features such as a navigation bar, product listing, product editing and deletion, sorting, adding products to the cart, viewing cart items, handling errors, and persisting cart data using Redux.
 
